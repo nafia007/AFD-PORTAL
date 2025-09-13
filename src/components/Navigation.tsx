@@ -223,7 +223,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center gap-4">
             <Link to="/" className="text-lg md:text-xl font-bold text-accent hover:text-primary transition-colors">
-              {isMobile ? "AFD" : "African Film DAO SUBMISSIONS"}
+              AFD PORTAL
             </Link>
             
             {/* Desktop Navigation */}

@@ -135,7 +135,7 @@ const Achievements = () => {
                    </div>
                  </div>
                  <h3 className="text-2xl font-bold text-white mb-2">Bheki Dlaldla</h3>
-                 <p className="text-lg text-cyan-400 mb-4">Governor</p>
+                 <p className="text-lg text-cyan-400 mb-4">Co-Founder</p>
                  <p className="text-gray-300 leading-relaxed text-sm">
                    Strategic governance leader overseeing DAO operations and community development initiatives across the African film ecosystem.
                  </p>

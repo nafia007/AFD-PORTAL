@@ -111,7 +111,7 @@ export const FileSubmissionForm = ({ onSuccess }: FileSubmissionFormProps) => {
           description: values.description.trim(),
           director: values.director.trim(),
           price: values.price,
-          token_id: parseInt(values.tokenId),
+          token_id: values.tokenId ? parseInt(values.tokenId) : null,
           film_url: publicUrl,
           user_id: userId
         });
